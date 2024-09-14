@@ -1,0 +1,3875 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.31)  14 SEP 2024 19:33
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**./latex-video.tex
+(latex-video.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-07-20>
+(E:\MiKTeX\tex/latex/standalone\standalone.cls
+Document Class: standalone 2022/10/10 v1.3b Class to compile TeX sub-files stan
+dalone
+(E:\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(E:\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(E:\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(E:\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(E:\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(E:\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(E:\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count194
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count195
+\c@sapage=\count196
+
+(E:\MiKTeX\tex/latex/standalone\standalone.cfg
+File: standalone.cfg 2022/10/10 v1.3b Default configuration file for 'standalon
+e' class
+)
+(E:\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(E:\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(E:\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(E:\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(E:\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(E:\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen142
+\pgfutil@tempdimb=\dimen143
+)
+(E:\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box52
+)
+(E:\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(E:\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(E:\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(E:\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(E:\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(E:\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(E:\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+
+(E:\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen146
+\pgf@y=\dimen147
+\pgf@xa=\dimen148
+\pgf@ya=\dimen149
+\pgf@xb=\dimen150
+\pgf@yb=\dimen151
+\pgf@xc=\dimen152
+\pgf@yc=\dimen153
+\pgf@xd=\dimen154
+\pgf@yd=\dimen155
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count271
+\c@pgf@countb=\count272
+\c@pgf@countc=\count273
+\c@pgf@countd=\count274
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count275
+
+(E:\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(E:\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count276
+\pgfsyssoftpath@bigbuffer@items=\count277
+)
+(E:\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(E:\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(E:\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(E:\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen156
+\pgfmath@count=\count278
+\pgfmath@box=\box53
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex)
+(E:\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count279
+))
+(E:\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen157
+\pgf@picmaxx=\dimen158
+\pgf@picminy=\dimen159
+\pgf@picmaxy=\dimen160
+\pgf@pathminx=\dimen161
+\pgf@pathmaxx=\dimen162
+\pgf@pathminy=\dimen163
+\pgf@pathmaxy=\dimen164
+\pgf@xx=\dimen165
+\pgf@xy=\dimen166
+\pgf@yx=\dimen167
+\pgf@yy=\dimen168
+\pgf@zx=\dimen169
+\pgf@zy=\dimen170
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen171
+\pgf@path@lasty=\dimen172
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen173
+\pgf@shorten@start@additional=\dimen174
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count280
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen175
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen176
+\pgf@pt@y=\dimen177
+\pgf@pt@temp=\dimen178
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen179
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen180
+\pgf@sys@shading@range@num=\count281
+\pgf@shadingcount=\count282
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box57
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box58
+)
+(E:\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen181
+\pgf@nodesepend=\dimen182
+)
+(E:\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(E:\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(E:\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(E:\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(E:\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(E:\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(E:\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen183
+\pgffor@skip=\dimen184
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+))
+(E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count283
+\pgfplotmarksize=\dimen185
+)
+\tikz@lastx=\dimen186
+\tikz@lasty=\dimen187
+\tikz@lastxsaved=\dimen188
+\tikz@lastysaved=\dimen189
+\tikz@lastmovetox=\dimen190
+\tikz@lastmovetoy=\dimen191
+\tikzleveldistance=\dimen192
+\tikzsiblingdistance=\dimen193
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count284
+\tikznumberofchildren=\count285
+\tikznumberofcurrentchild=\count286
+\tikz@fig@count=\count287
+
+(E:\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count288
+\pgfmatrixcurrentcolumn=\count289
+\pgf@matrix@numberofcolumns=\count290
+)
+\tikz@expandcount=\count291
+
+(E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code
+.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (E:\MiKTeX\tex/latex/preview\preview.sty
+Package: preview 2024/06/30 14.0.6 (AUCTeX/preview-latex)
+
+(E:\MiKTeX\tex/latex/luatex85\luatex85.sty
+Package: luatex85 2016/06/15 v1.4 pdftex aliases for luatex
+)
+(E:\MiKTeX\tex/latex/preview\prtightpage.def
+\PreviewBorder=\dimen194
+)
+\pr@snippet=\count292
+\pr@box=\box63
+\pr@output=\toks31
+))
+(E:\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/06/26 v24.7 The Babel package
+\babel@savecnt=\count293
+\U@D=\dimen195
+\l@unhyphenated=\language79
+
+(E:\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count294
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(E:\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(E:\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks32
+\es@quotdepth=\count295
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(E:\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(E:\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(E:\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(E:\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen196
+))
+(E:\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen197
+)
+(E:\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count296
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count297
+\leftroot@=\count298
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count299
+\DOTSCASE@=\count300
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box64
+\strutbox@=\box65
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen198
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count301
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count302
+\dotsspace@=\muskip17
+\c@parentequation=\count303
+\dspbrk@lvl=\count304
+\tag@help=\toks34
+\row@=\count305
+\column@=\count306
+\maxfields@=\count307
+\andhelp@=\toks35
+\eqnshift@=\dimen199
+\alignsep@=\dimen256
+\tagshift@=\dimen257
+\tagwidth@=\dimen258
+\totwidth@=\dimen259
+\lineht@=\dimen260
+\@envbody=\toks36
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(E:\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(E:\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(E:\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks43
+)
+(E:\MiKTeX\tex/latex/graphics\dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(E:\MiKTeX\tex/latex/mlmodern\mlmodern.sty
+Package: mlmodern 2021/01/12 v1.1 Modified Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/mlmr/m/n on input line 27.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/mlmm/m/it on input line 28.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/mlmsy/m/n on input line 29.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/mlmex/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mlmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/mlmm/b/it on input line 32.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/mlmsy/b/n on input line 33.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/mlmex/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/mlmr/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/mlmss/m/n on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/mlmr/m/it on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/mlmtt/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mlmr/bx/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/mlmss/bx/n on input line 41.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/mlmr/bx/it on input line 42.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/mlmtt/m/n on input line 43.
+)
+(E:\MiKTeX\tex/latex/scalerel\scalerel.sty
+Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretchi
+ng of objects, relative to a reference object or in absolute terms
+ (E:\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count308
+\calc@Bcount=\count309
+\calc@Adimen=\dimen261
+\calc@Bdimen=\dimen262
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count310
+\calc@Cskip=\skip59
+) (E:\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count311
+)
+\thesrwidth=\skip60
+\thesrheight=\skip61
+\srblobheight=\skip62
+\srblobdepth=\skip63
+\mnxsrwidth=\skip64
+\LMex=\skip65
+\LMpt=\skip66
+) (card.sty
+Package: card Defines some custom color boxes (called card) using tcolorbox.
+
+(E:\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2024/07/10 version 6.3.0 text color boxes
+
+(E:\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks44
+\verbatim@line=\toks45
+\verbatim@in@stream=\read4
+)
+(E:\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(E:\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box66
+\tcb@upperbox=\box67
+\tcb@lowerbox=\box68
+\tcb@phantombox=\box69
+\c@tcbbreakpart=\count312
+\c@tcblayer=\count313
+\c@tcolorbox@number=\count314
+\l__tcobox_tmpa_box=\box70
+\l__tcobox_tmpa_dim=\dimen263
+\tcb@temp=\box71
+\tcb@temp=\box72
+\tcb@temp=\box73
+\tcb@temp=\box74
+)
+(E:\MiKTeX\tex/latex/fontawesome\fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(E:\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(E:\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-generic.tex)
+(E:\MiKTeX\tex/latex/fontawesome\fontawesomesymbols-pdftex.tex))
+(E:\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+(E:\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-07-20 L3 programming layer (loader) 
+
+(E:\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count315
+\l__pdf_internal_box=\box75
+))
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+(E:\MiKTeX\tex/latex/xstring\xstring.sty
+(E:\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count316
+\xs_countb=\count317
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(E:\MiKTeX\tex/latex/natbib\bibentry.sty
+Package: bibentry 2007/10/30 1.5 (PWD)
+)
+(E:\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2024-04-04 v5.2o context-sensitive quotations (JAW)
+\csq@reset=\count318
+\csq@gtype=\count319
+\csq@glevel=\count320
+\csq@qlevel=\count321
+\csq@maxlvl=\count322
+\csq@tshold=\count323
+\csq@ltx@everypar=\toks46
+
+(E:\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2024-04-04 v5.2o csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(E:\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+(E:\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2023/12/18 v2.9 Yet another Pygments shim for LaTeX
+
+(E:\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(E:\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(E:\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(E:\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2024/05/16 v1.7.0 fvextra - extensions and patches for fancyvr
+b
+
+(E:\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2024/01/20 4.5c verbatim text (tvz,hv)
+\FV@CodeLineNo=\count324
+\FV@InFile=\read5
+\FV@TabBox=\box76
+\c@FancyVerbLine=\count325
+\FV@StepNumber=\count326
+\FV@OutFile=\write4
+)
+(E:\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+ (E:\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)) (E:\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+\linenopenalty=\count327
+\output=\toks47
+\linenoprevgraf=\count328
+\linenumbersep=\dimen264
+\linenumberwidth=\dimen265
+\c@linenumber=\count329
+\c@pagewiselinenumber=\count330
+\c@LN@truepage=\count331
+\c@internallinenumber=\count332
+\c@internallinenumbers=\count333
+\quotelinenumbersep=\dimen266
+\bframerule=\dimen267
+\bframesep=\dimen268
+\bframebox=\box77
+\linenoamsmath@ams@eqpen=\count334
+
+
+LaTeX Warning: Command \@parboxrestore  has changed.
+               Check if current package is valid.
+
+LaTeX Info: Redefining \\ on input line 3180.
+)
+
+Package fvextra Warning: csquotes should be loaded after fvextra, to avoid a wa
+rning from the lineno package on input line 36.
+
+\c@FancyVerbWriteLine=\count335
+\c@FancyVerbBufferIndex=\count336
+\c@FancyVerbBufferLength=\count337
+\c@FancyVerbBufferLine=\count338
+\c@FV@oldbufferlength=\count339
+\c@FV@TrueTabGroupLevel=\count340
+\c@FV@TrueTabCounter=\count341
+\FV@TabBox@Group=\box78
+\FV@TmpLength=\skip67
+\c@FV@HighlightLinesStart=\count342
+\c@FV@HighlightLinesStop=\count343
+\FV@LoopCount=\count344
+\FV@NCharsBox=\box79
+\FV@BreakIndent=\dimen269
+\FV@BreakIndentNChars=\count345
+\FV@BreakSymbolSepLeft=\dimen270
+\FV@BreakSymbolSepLeftNChars=\count346
+\FV@BreakSymbolSepRight=\dimen271
+\FV@BreakSymbolSepRightNChars=\count347
+\FV@BreakSymbolIndentLeft=\dimen272
+\FV@BreakSymbolIndentLeftNChars=\count348
+\FV@BreakSymbolIndentRight=\dimen273
+\FV@BreakSymbolIndentRightNChars=\count349
+\c@FancyVerbLineBreakLast=\count350
+\FV@LineBox=\box80
+\FV@LineIndentBox=\box81
+\c@FV@BreakBufferDepth=\count351
+\FV@LineWidth=\dimen274
+) (E:\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(E:\MiKTeX\tex/latex/ifplatform\ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(E:\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(E:\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(E:\MiKTeX\tex/generic/catchfile\catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(E:\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)))
+(E:\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip68
+\fb@frw=\dimen275
+\fb@frh=\dimen276
+\FrameRule=\dimen277
+\FrameSep=\dimen278
+) (E:\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count352
+\float@exts=\toks48
+\float@box=\box82
+\@float@everytoks=\toks49
+\@floatcapt=\box83
+)
+\minted@appexistsfile=\read6
+\minted@bgbox=\box84
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count353
+\c@minted@pygmentizecounter=\count354
+\@float@every@listing=\toks50
+\c@listing=\count355
+)
+runsystem(if not exist _minted-latex-video mkdir _minted-latex-video)...execute
+d.
+
+
+No file latex-video.bbl.
+\c@citationcounter=\count356
+) (E:\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks51
+\labelindent=\skip69
+\enit@outerparindent=\dimen279
+\enit@toks=\toks52
+\enit@inbox=\box85
+\enit@count@id=\count357
+\enitdp@description=\count358
+)
+(E:\MiKTeX\tex/latex/forloop\forloop.sty
+Package: forloop 2023/05/03 v3.0 For Loops for LaTeX
+)
+(E:\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(E:\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(E:\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex
+(E:\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
+\t@pgfplots@toka=\toks53
+\t@pgfplots@tokb=\toks54
+\t@pgfplots@tokc=\toks55
+\pgfplots@tmpa=\dimen280
+\c@pgfplots@coordindex=\count359
+\c@pgfplots@scanlineindex=\count360
+
+(E:\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
+(E:\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.t
+ex (E:\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks56
+\t@pgf@tokb=\toks57
+\t@pgf@tokc=\toks58
+
+(E:\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-commo
+n-lists.tex)) (E:\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
+(E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex
+) (E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count361
+)
+(E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count362
+\t@pgfplotstable@a=\toks59
+)
+(E:\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
+(E:\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
+(E:\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count363
+
+(E:\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdfte
+x.def))) (E:\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
+(E:\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
+(E:\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
+(E:\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
+(E:\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
+(E:\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
+(E:\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
+(E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
+code.tex (E:\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen281
+\pgfdecoratedremainingdistance=\dimen282
+\pgfdecoratedinputsegmentcompleteddistance=\dimen283
+\pgfdecoratedinputsegmentremainingdistance=\dimen284
+\pgf@decorate@distancetomove=\dimen285
+\pgf@decorate@repeatstate=\count364
+\pgfdecorationsegmentamplitude=\dimen286
+\pgfdecorationsegmentlength=\dimen287
+)
+\tikz@lib@dec@box=\box86
+)
+(E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
+pathmorphing.code.tex
+(E:\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorp
+hing.code.tex))
+(E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.
+pathreplacing.code.tex
+(E:\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathrepl
+acing.code.tex))
+(E:\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count365
+\pgfplots@xmin@reg=\dimen288
+\pgfplots@xmax@reg=\dimen289
+\pgfplots@ymin@reg=\dimen290
+\pgfplots@ymax@reg=\dimen291
+\pgfplots@zmin@reg=\dimen292
+\pgfplots@zmax@reg=\dimen293
+)
+(E:\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.co
+de.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (E:\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
+runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > la
+tex-video.aex <nul: /p x=^%~$PATH:i>> latex-video.aex)...executed.
+
+runsystem(del latex-video.aex)...executed.
+
+LaTeX Font Info:    Trying to load font information for OT1+mlmr on input line 
+51.
+
+(E:\MiKTeX\tex/latex/mlmodern\ot1mlmr.fd
+File: ot1mlmr.fd 2021/01/11 v1.0 Font defs for mlmodern
+) (latex-video.aux)
+\openout1 = `latex-video.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+
+(E:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count366
+\scratchdimen=\dimen294
+\scratchbox=\box87
+\nofMPsegments=\count367
+\nofMParguments=\count368
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count369
+\MPscratchDim=\dimen295
+\MPnumerator=\count370
+\makeMPintoPDFobject=\count371
+\everyMPtoPDFconversion=\toks61
+) (E:\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(E:\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+\c@videoframe=\count372
+<TheMathGuysLogo.png, id=4, 2007.5pt x 2007.5pt>
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.67029pt x 42.67912pt.
+<mathlike.pdf, id=6, 207.77625pt x 207.77625pt>
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.0pt x 0.0pt.
+LaTeX Font Info:    Trying to load font information for OML+mlmm on input line 
+87.
+(E:\MiKTeX\tex/latex/mlmodern\omlmlmm.fd
+File: omlmlmm.fd 2021/01/11 v1.0 Font defs for mlmodern
+)
+LaTeX Font Info:    Trying to load font information for OMS+mlmsy on input line
+ 87.
+
+(E:\MiKTeX\tex/latex/mlmodern\omsmlmsy.fd
+File: omsmlmsy.fd 2021/01/11 v1.0 Font defs for mlmodern
+)
+LaTeX Font Info:    Trying to load font information for OMX+mlmex on input line
+ 87.
+
+(E:\MiKTeX\tex/latex/mlmodern\omxmlmex.fd
+File: omxmlmex.fd 2021/01/11 v1.0 Font defs for mlmodern
+)
+LaTeX Font Info:    External font `mlmex10' loaded for size
+(Font)              <12> on input line 87.
+LaTeX Font Info:    External font `mlmex10' loaded for size
+(Font)              <8> on input line 87.
+LaTeX Font Info:    External font `mlmex10' loaded for size
+(Font)              <6> on input line 87.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
+
+
+(E:\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
+
+ (E:\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
+ut line 87.
+
+(E:\MiKTeX\tex/latex/fontawesome\ufontawesometwo.fd
+File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
+)
+PGFPlots: reading {csv/output0.csv}
+LaTeX Font Info:    External font `mlmex10' loaded for size
+(Font)              <10> on input line 87.
+LaTeX Font Info:    External font `mlmex10' loaded for size
+(Font)              <7> on input line 87.
+LaTeX Font Info:    External font `mlmex10' loaded for size
+(Font)              <5> on input line 87.
+
+Preview: Tightpage 0 0 0 0
+[1{C:/Users/benja/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{E:/MiKTeX/f
+onts/enc/dvips/lm/lm-rm.enc}{E:/MiKTeX/fonts/enc/dvips/fontawesome/fontawesomet
+wo.enc} <./TheMathGuysLogo.png> <./mathlike.pdf>]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.67029pt x 42.67696pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.00316pt x 0.00563pt.
+PGFPlots: reading {csv/output0.csv}
+
+Preview: Tightpage 0 0 0 0
+[2]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.67029pt x 42.67131pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.02219pt x 0.02344pt.
+PGFPlots: reading {csv/output0.csv}
+
+Preview: Tightpage 0 0 0 0
+[3]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.63966pt x 42.66133pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.05072pt x 0.05252pt.
+PGFPlots: reading {csv/output0.csv}
+
+Preview: Tightpage 0 0 0 0
+[4]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.63966pt x 42.64743pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.09193pt x 0.09421pt.
+PGFPlots: reading {csv/output0.csv}
+
+Preview: Tightpage 0 0 0 0
+[5]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.60902pt x 42.62964pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.14583pt x 0.1476pt.
+PGFPlots: reading {csv/output0.csv}
+
+Preview: Tightpage 0 0 0 0
+[6]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.5784pt x 42.60793pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.2124pt x 0.21272pt.
+PGFPlots: reading {csv/output1.csv}
+
+Preview: Tightpage 0 0 0 0
+[7]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.5784pt x 42.5823pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.2885pt x 0.28957pt.
+PGFPlots: reading {csv/output1.csv}
+
+Preview: Tightpage 0 0 0 0
+[8]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.54776pt x 42.55278pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.37727pt x 0.37901pt.
+PGFPlots: reading {csv/output1.csv}
+
+Preview: Tightpage 0 0 0 0
+[9]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.51714pt x 42.51892pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.47873pt x 0.47974pt.
+PGFPlots: reading {csv/output1.csv}
+
+Preview: Tightpage 0 0 0 0
+[10]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.45587pt x 42.48158pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.58969pt x 0.59262pt.
+PGFPlots: reading {csv/output2.csv}
+
+Preview: Tightpage 0 0 0 0
+[11]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.42523pt x 42.43991pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.7165pt x 0.71678pt.
+PGFPlots: reading {csv/output2.csv}
+
+Preview: Tightpage 0 0 0 0
+[12]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.3946pt x 42.39476pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.85283pt x 0.8531pt.
+PGFPlots: reading {csv/output2.csv}
+
+Preview: Tightpage 0 0 0 0
+[13]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.33334pt x 42.34526pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 0.99867pt x 1.00072pt.
+PGFPlots: reading {csv/output3.csv}
+
+Preview: Tightpage 0 0 0 0
+[14]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.27208pt x 42.29185pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 1.16035pt x 1.16092pt.
+PGFPlots: reading {csv/output3.csv}
+
+Preview: Tightpage 0 0 0 0
+[15]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.21082pt x 42.23456pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 1.33156pt x 1.33371pt.
+PGFPlots: reading {csv/output4.csv}
+
+Preview: Tightpage 0 0 0 0
+[16]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.14955pt x 42.17334pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 1.51544pt x 1.51736pt.
+PGFPlots: reading {csv/output4.csv}
+
+Preview: Tightpage 0 0 0 0
+[17]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.08829pt x 42.10822pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 1.712pt x 1.71274pt.
+PGFPlots: reading {csv/output5.csv}
+
+Preview: Tightpage 0 0 0 0
+[18]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 42.02702pt x 42.03918pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 1.91809pt x 1.91983pt.
+PGFPlots: reading {csv/output5.csv}
+
+Preview: Tightpage 0 0 0 0
+[19]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.96576pt x 41.9658pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 2.13684pt x 2.13907pt.
+PGFPlots: reading {csv/output6.csv}
+
+Preview: Tightpage 0 0 0 0
+[20]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.87386pt x 41.88896pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 2.36829pt x 2.37048pt.
+PGFPlots: reading {csv/output7.csv}
+
+Preview: Tightpage 0 0 0 0
+[21]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.78197pt x 41.80779pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 2.61241pt x 2.61317pt.
+PGFPlots: reading {csv/output7.csv}
+
+Preview: Tightpage 0 0 0 0
+[22]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.7207pt x 41.72311pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 2.86604pt x 2.86801pt.
+PGFPlots: reading {csv/output8.csv}
+
+Preview: Tightpage 0 0 0 0
+[23]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.6288pt x 41.63368pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 3.13235pt x 3.13545pt.
+PGFPlots: reading {csv/output9.csv}
+
+Preview: Tightpage 0 0 0 0
+[24]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.53691pt x 41.54121pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 3.41135pt x 3.41376pt.
+PGFPlots: reading {csv/output10.csv}
+
+Preview: Tightpage 0 0 0 0
+[25]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.41438pt x 41.4444pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 3.70303pt x 3.7042pt.
+PGFPlots: reading {csv/output10.csv}
+
+Preview: Tightpage 0 0 0 0
+[26]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.32248pt x 41.34367pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 4.00421pt x 4.00638pt.
+PGFPlots: reading {csv/output11.csv}
+
+Preview: Tightpage 0 0 0 0
+[27]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.23059pt x 41.23903pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 4.31808pt x 4.32027pt.
+PGFPlots: reading {csv/output12.csv}
+
+Preview: Tightpage 0 0 0 0
+[28]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.10806pt x 41.13007pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 4.64464pt x 4.64632pt.
+PGFPlots: reading {csv/output13.csv}
+
+Preview: Tightpage 0 0 0 0
+[29]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 41.01616pt x 41.01762pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 4.98387pt x 4.98453pt.
+PGFPlots: reading {csv/output14.csv}
+
+Preview: Tightpage 0 0 0 0
+[30]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 40.89363pt x 40.90083pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 5.33261pt x 5.33488pt.
+PGFPlots: reading {csv/output15.csv}
+
+Preview: Tightpage 0 0 0 0
+[31]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 40.77112pt x 40.78014pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 5.69405pt x 5.6961pt.
+PGFPlots: reading {csv/output16.csv}
+
+Preview: Tightpage 0 0 0 0
+[32]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 40.64859pt x 40.65596pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 6.06815pt x 6.06947pt.
+PGFPlots: reading {csv/output17.csv}
+
+Preview: Tightpage 0 0 0 0
+[33]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 40.52606pt x 40.52745pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 6.45177pt x 6.45413pt.
+PGFPlots: reading {csv/output18.csv}
+
+Preview: Tightpage 0 0 0 0
+[34]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 40.3729pt x 40.39503pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 6.85124pt x 6.85138pt.
+PGFPlots: reading {csv/output19.csv}
+
+Preview: Tightpage 0 0 0 0
+[35]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 40.25037pt x 40.25871pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 7.26022pt x 7.26036pt.
+PGFPlots: reading {csv/output20.csv}
+
+Preview: Tightpage 0 0 0 0
+[36]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 40.09721pt x 40.11848pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 7.67871pt x 7.68106pt.
+PGFPlots: reading {csv/output21.csv}
+
+Preview: Tightpage 0 0 0 0
+[37]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 39.94405pt x 39.97435pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 8.11307pt x 8.11348pt.
+PGFPlots: reading {csv/output23.csv}
+
+Preview: Tightpage 0 0 0 0
+[38]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 39.82152pt x 39.82587pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 8.55692pt x 8.55891pt.
+PGFPlots: reading {csv/output24.csv}
+
+Preview: Tightpage 0 0 0 0
+[39]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 39.66837pt x 39.6739pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 9.01346pt x 9.01564pt.
+PGFPlots: reading {csv/output25.csv}
+
+Preview: Tightpage 0 0 0 0
+[40]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 39.5152pt x 39.51761pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 9.48268pt x 9.48367pt.
+PGFPlots: reading {csv/output26.csv}
+
+Preview: Tightpage 0 0 0 0
+[41]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 39.3314pt x 39.35785pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 9.96141pt x 9.96384pt.
+PGFPlots: reading {csv/output28.csv}
+
+Preview: Tightpage 0 0 0 0
+[42]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 39.17825pt x 39.19373pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 10.45282pt x 10.4553pt.
+PGFPlots: reading {csv/output29.csv}
+
+Preview: Tightpage 0 0 0 0
+[43]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 39.02509pt x 39.02615pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 10.95691pt x 10.95892pt.
+PGFPlots: reading {csv/output31.csv}
+
+Preview: Tightpage 0 0 0 0
+[44]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 38.8413pt x 38.85422pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 11.4737pt x 11.4747pt.
+PGFPlots: reading {csv/output32.csv}
+
+Preview: Tightpage 0 0 0 0
+[45]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 38.6575pt x 38.67796pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 12.00314pt x 12.0035pt.
+PGFPlots: reading {csv/output33.csv}
+
+Preview: Tightpage 0 0 0 0
+[46]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 38.47371pt x 38.49821pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 12.54211pt x 12.54272pt.
+PGFPlots: reading {csv/output35.csv}
+
+Preview: Tightpage 0 0 0 0
+[47]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 38.28992pt x 38.31458pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 13.09059pt x 13.09366pt.
+PGFPlots: reading {csv/output37.csv}
+
+Preview: Tightpage 0 0 0 0
+[48]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 38.10612pt x 38.12701pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 13.65494pt x 13.65633pt.
+PGFPlots: reading {csv/output38.csv}
+
+Preview: Tightpage 0 0 0 0
+[49]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 37.92233pt x 37.93512pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 14.22878pt x 14.23114pt.
+PGFPlots: reading {csv/output40.csv}
+
+Preview: Tightpage 0 0 0 0
+[50]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 37.73854pt x 37.73975pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 14.81529pt x 14.81813pt.
+PGFPlots: reading {csv/output41.csv}
+
+Preview: Tightpage 0 0 0 0
+[51]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 37.52412pt x 37.54004pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 15.4145pt x 15.41638pt.
+PGFPlots: reading {csv/output43.csv}
+
+Preview: Tightpage 0 0 0 0
+[52]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 37.30971pt x 37.33685pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 16.0264pt x 16.02681pt.
+PGFPlots: reading {csv/output45.csv}
+
+Preview: Tightpage 0 0 0 0
+[53]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 37.12592pt x 37.12889pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 16.6478pt x 16.6507pt.
+PGFPlots: reading {csv/output46.csv}
+
+Preview: Tightpage 0 0 0 0
+[54]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 36.91148pt x 36.91747pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 17.28188pt x 17.28412pt.
+PGFPlots: reading {csv/output48.csv}
+
+Preview: Tightpage 0 0 0 0
+[55]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 36.69707pt x 36.70212pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 17.92863pt x 17.93015pt.
+PGFPlots: reading {csv/output50.csv}
+
+Preview: Tightpage 0 0 0 0
+[56]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 36.48264pt x 36.48286pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 18.58492pt x 18.58789pt.
+PGFPlots: reading {csv/output52.csv}
+
+Preview: Tightpage 0 0 0 0
+[57]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 36.23758pt x 36.25972pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 19.25703pt x 19.25735pt.
+PGFPlots: reading {csv/output54.csv}
+
+Preview: Tightpage 0 0 0 0
+[58]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 36.02316pt x 36.03265pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 19.93867pt x 19.9394pt.
+PGFPlots: reading {csv/output56.csv}
+
+Preview: Tightpage 0 0 0 0
+[59]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 35.7781pt x 35.80125pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 20.62982pt x 20.63275pt.
+PGFPlots: reading {csv/output58.csv}
+
+Preview: Tightpage 0 0 0 0
+[60]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 35.56367pt x 35.56593pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 21.33682pt x 21.33955pt.
+PGFPlots: reading {csv/output60.csv}
+
+Preview: Tightpage 0 0 0 0
+[61]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 35.31862pt x 35.33063pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 22.04382pt x 22.04463pt.
+PGFPlots: reading {csv/output61.csv}
+
+Preview: Tightpage 0 0 0 0
+[62]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 35.07356pt x 35.09966pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 22.73814pt x 22.7384pt.
+PGFPlots: reading {csv/output63.csv}
+
+Preview: Tightpage 0 0 0 0
+[63]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 34.85915pt x 34.87216pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 23.41978pt x 23.42003pt.
+PGFPlots: reading {csv/output65.csv}
+
+Preview: Tightpage 0 0 0 0
+[64]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 34.64471pt x 34.649pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 24.08873pt x 24.0895pt.
+PGFPlots: reading {csv/output67.csv}
+
+Preview: Tightpage 0 0 0 0
+[65]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 34.39967pt x 34.42975pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 24.74501pt x 24.74724pt.
+PGFPlots: reading {csv/output69.csv}
+
+Preview: Tightpage 0 0 0 0
+[66]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 34.18524pt x 34.21442pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 25.39177pt x 25.39326pt.
+PGFPlots: reading {csv/output71.csv}
+
+Preview: Tightpage 0 0 0 0
+[67]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 34.00145pt x 34.00298pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 26.02585pt x 26.02756pt.
+PGFPlots: reading {csv/output73.csv}
+
+Preview: Tightpage 0 0 0 0
+[68]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 33.78703pt x 33.79546pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 26.65042pt x 26.651pt.
+PGFPlots: reading {csv/output74.csv}
+
+Preview: Tightpage 0 0 0 0
+[69]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 33.5726pt x 33.59184pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 27.25914pt x 27.26099pt.
+PGFPlots: reading {csv/output76.csv}
+
+Preview: Tightpage 0 0 0 0
+[70]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 33.38881pt x 33.39256pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 27.85835pt x 27.8597pt.
+PGFPlots: reading {csv/output78.csv}
+
+Preview: Tightpage 0 0 0 0
+[71]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 33.1744pt x 33.19676pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 28.44487pt x 28.44624pt.
+PGFPlots: reading {csv/output79.csv}
+
+Preview: Tightpage 0 0 0 0
+[72]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 32.9906pt x 33.0053pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 29.01872pt x 29.02148pt.
+PGFPlots: reading {csv/output81.csv}
+
+Preview: Tightpage 0 0 0 0
+[73]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 32.80681pt x 32.8173pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 29.58305pt x 29.5846pt.
+PGFPlots: reading {csv/output82.csv}
+
+Preview: Tightpage 0 0 0 0
+[74]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 32.62302pt x 32.63365pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 30.1347pt x 30.13553pt.
+PGFPlots: reading {csv/output84.csv}
+
+Preview: Tightpage 0 0 0 0
+[75]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 32.43922pt x 32.45392pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 30.67368pt x 30.67561pt.
+PGFPlots: reading {csv/output86.csv}
+
+Preview: Tightpage 0 0 0 0
+[76]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 32.25543pt x 32.27809pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 31.20313pt x 31.20313pt.
+PGFPlots: reading {csv/output87.csv}
+
+Preview: Tightpage 0 0 0 0
+[77]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 32.10226pt x 32.10616pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 31.71674pt x 31.71889pt.
+PGFPlots: reading {csv/output88.csv}
+
+Preview: Tightpage 0 0 0 0
+[78]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 31.91847pt x 31.93814pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 32.22083pt x 32.22295pt.
+PGFPlots: reading {csv/output90.csv}
+
+Preview: Tightpage 0 0 0 0
+[79]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 31.76532pt x 31.77403pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 32.71223pt x 32.71442pt.
+PGFPlots: reading {csv/output91.csv}
+
+Preview: Tightpage 0 0 0 0
+[80]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 31.61215pt x 31.61426pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 33.19414pt x 33.19458pt.
+PGFPlots: reading {csv/output93.csv}
+
+Preview: Tightpage 0 0 0 0
+[81]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 31.42836pt x 31.45796pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 33.66019pt x 33.6626pt.
+PGFPlots: reading {csv/output94.csv}
+
+Preview: Tightpage 0 0 0 0
+[82]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 31.30585pt x 31.30602pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 34.11673pt x 34.11934pt.
+PGFPlots: reading {csv/output95.csv}
+
+Preview: Tightpage 0 0 0 0
+[83]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 31.15268pt x 31.15753pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 34.56375pt x 34.5639pt.
+PGFPlots: reading {csv/output96.csv}
+
+Preview: Tightpage 0 0 0 0
+[84]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.99953pt x 31.0134pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 34.99493pt x 34.9972pt.
+PGFPlots: reading {csv/output98.csv}
+
+Preview: Tightpage 0 0 0 0
+[85]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.84636pt x 30.87315pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 35.4166pt x 35.4179pt.
+PGFPlots: reading {csv/output99.csv}
+
+Preview: Tightpage 0 0 0 0
+[86]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.72383pt x 30.73683pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 35.82558pt x 35.82686pt.
+PGFPlots: reading {csv/output100.csv}
+
+Preview: Tightpage 0 0 0 0
+[87]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.6013pt x 30.60442pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 36.22188pt x 36.22412pt.
+PGFPlots: reading {csv/output101.csv}
+
+Preview: Tightpage 0 0 0 0
+[88]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.44815pt x 30.4759pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 36.60867pt x 36.60878pt.
+PGFPlots: reading {csv/output102.csv}
+
+Preview: Tightpage 0 0 0 0
+[89]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.32562pt x 30.35175pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 36.97961pt x 36.98215pt.
+PGFPlots: reading {csv/output103.csv}
+
+Preview: Tightpage 0 0 0 0
+[90]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.2031pt x 30.23105pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 37.34421pt x 37.34424pt.
+PGFPlots: reading {csv/output104.csv}
+
+Preview: Tightpage 0 0 0 0
+[91]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 30.11119pt x 30.11426pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 37.69295pt x 37.69373pt.
+PGFPlots: reading {csv/output105.csv}
+
+Preview: Tightpage 0 0 0 0
+[92]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.98866pt x 30.00182pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 38.03218pt x 38.03194pt.
+PGFPlots: reading {csv/output106.csv}
+
+Preview: Tightpage 0 0 0 0
+[93]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.86613pt x 29.89284pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 38.35556pt x 38.35799pt.
+PGFPlots: reading {csv/output107.csv}
+
+Preview: Tightpage 0 0 0 0
+[94]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.77425pt x 29.78821pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 38.66943pt x 38.67188pt.
+PGFPlots: reading {csv/output108.csv}
+
+Preview: Tightpage 0 0 0 0
+[95]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.68234pt x 29.68748pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 38.9738pt x 38.97404pt.
+PGFPlots: reading {csv/output109.csv}
+
+Preview: Tightpage 0 0 0 0
+[96]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.59045pt x 29.59067pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 39.2623pt x 39.2645pt.
+PGFPlots: reading {csv/output109.csv}
+
+Preview: Tightpage 0 0 0 0
+[97]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.46793pt x 29.49776pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 39.54129pt x 39.54323pt.
+PGFPlots: reading {csv/output110.csv}
+
+Preview: Tightpage 0 0 0 0
+[98]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.40666pt x 29.40875pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 39.80762pt x 39.81023pt.
+PGFPlots: reading {csv/output111.csv}
+
+Preview: Tightpage 0 0 0 0
+[99]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.31476pt x 29.3241pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 40.0644pt x 40.06508pt.
+PGFPlots: reading {csv/output112.csv}
+
+Preview: Tightpage 0 0 0 0
+[100]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.22287pt x 29.2429pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 40.30536pt x 40.30777pt.
+PGFPlots: reading {csv/output112.csv}
+
+Preview: Tightpage 0 0 0 0
+[101]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.1616pt x 29.16606pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 40.5368pt x 40.53918pt.
+PGFPlots: reading {csv/output113.csv}
+
+Preview: Tightpage 0 0 0 0
+[102]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.0697pt x 29.0927pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 40.75873pt x 40.75842pt.
+PGFPlots: reading {csv/output114.csv}
+
+Preview: Tightpage 0 0 0 0
+[103]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 29.00844pt x 29.02367pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 40.96481pt x 40.96638pt.
+PGFPlots: reading {csv/output114.csv}
+
+Preview: Tightpage 0 0 0 0
+[104]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.94717pt x 28.95854pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 41.16138pt x 41.16176pt.
+PGFPlots: reading {csv/output115.csv}
+
+Preview: Tightpage 0 0 0 0
+[105]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.88591pt x 28.89732pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 41.34526pt x 41.3454pt.
+PGFPlots: reading {csv/output115.csv}
+
+Preview: Tightpage 0 0 0 0
+[106]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.82465pt x 28.84001pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 41.51646pt x 41.51733pt.
+PGFPlots: reading {csv/output116.csv}
+
+Preview: Tightpage 0 0 0 0
+[107]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.76338pt x 28.7866pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 41.67497pt x 41.67754pt.
+PGFPlots: reading {csv/output116.csv}
+
+Preview: Tightpage 0 0 0 0
+[108]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.73276pt x 28.73712pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 41.82399pt x 41.82602pt.
+PGFPlots: reading {csv/output117.csv}
+
+Preview: Tightpage 0 0 0 0
+[109]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.6715pt x 28.69153pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 41.96031pt x 41.9619pt.
+PGFPlots: reading {csv/output117.csv}
+
+Preview: Tightpage 0 0 0 0
+[110]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.64085pt x 28.65028pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.08395pt x 42.0865pt.
+PGFPlots: reading {csv/output117.csv}
+
+Preview: Tightpage 0 0 0 0
+[111]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.61023pt x 28.61252pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.19809pt x 42.19894pt.
+PGFPlots: reading {csv/output118.csv}
+
+Preview: Tightpage 0 0 0 0
+[112]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.54897pt x 28.57909pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.29955pt x 42.30011pt.
+PGFPlots: reading {csv/output118.csv}
+
+Preview: Tightpage 0 0 0 0
+[113]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.54897pt x 28.54956pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.38832pt x 42.38867pt.
+PGFPlots: reading {csv/output118.csv}
+
+Preview: Tightpage 0 0 0 0
+[114]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.51833pt x 28.52351pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.46442pt x 42.46596pt.
+PGFPlots: reading {csv/output118.csv}
+
+Preview: Tightpage 0 0 0 0
+[115]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.4877pt x 28.5018pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.53099pt x 42.53108pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[116]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.45706pt x 28.48401pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.58488pt x 42.58449pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[117]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.45706pt x 28.47011pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.6261pt x 42.62616pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[118]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.45706pt x 28.46056pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.65463pt x 42.65569pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[119]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 87.
+(pdftex.def)             Requested size: 28.42644pt x 28.45448pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 87.
+(pdftex.def)             Requested size: 42.67049pt x 42.67305pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[120]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[121]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[122]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[123]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[124]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[125]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[126]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[127]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[128]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[129]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[130]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[131]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[132]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[133]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[134]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[135]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[136]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[137]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[138]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[139]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[140]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[141]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[142]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[143]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[144]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[145]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[146]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[147]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[148]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[149]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[150]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[151]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[152]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[153]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[154]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[155]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[156]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[157]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[158]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[159]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[160]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[161]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[162]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[163]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[164]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[165]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[166]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[167]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[168]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[169]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[170]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[171]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[172]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[173]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[174]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[175]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[176]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[177]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[178]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[179]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[180]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[181]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[182]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[183]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[184]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[185]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[186]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[187]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[188]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[189]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[190]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[191]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[192]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[193]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[194]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[195]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[196]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[197]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[198]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[199]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[200]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[201]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[202]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[203]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[204]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[205]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[206]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[207]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[208]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[209]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[210]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[211]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[212]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[213]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[214]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[215]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[216]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[217]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[218]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[219]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[220]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[221]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[222]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[223]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[224]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[225]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[226]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[227]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[228]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[229]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[230]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[231]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[232]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[233]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[234]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[235]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[236]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[237]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[238]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[239]
+File: TheMathGuysLogo.png Graphic file (type png)
+<use TheMathGuysLogo.png>
+Package pdftex.def Info: TheMathGuysLogo.png  used on input line 116.
+(pdftex.def)             Requested size: 28.42644pt x 28.45274pt.
+File: mathlike.pdf Graphic file (type pdf)
+<use mathlike.pdf>
+Package pdftex.def Info: mathlike.pdf  used on input line 116.
+(pdftex.def)             Requested size: 42.67683pt x 42.67912pt.
+PGFPlots: reading {csv/output119.csv}
+
+Preview: Tightpage 0 0 0 0
+[240]
+
+Package bibentry Warning: You have used \nobibliography* 
+(bibentry)                without a following \bibliography.
+(bibentry)                You may not be able to run BibTeX.
+
+(latex-video.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-07-20>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 37662 strings out of 473899
+ 888558 string characters out of 5742915
+ 1934960 words of memory out of 5000000
+ 59773 multiletter control sequences out of 15000+600000
+ 582676 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 117i,12n,121p,729b,2101s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<E:/MiKTeX/fonts/type1/public/fontawesome/FontAwesome.pfb><E:/MiKTeX/fonts/ty
+pe1/public/mlmodern/mlmr10.pfb><E:/MiKTeX/fonts/type1/public/mlmodern/mlmr12.pf
+b><E:/MiKTeX/fonts/type1/public/mlmodern/mlmr8.pfb>
+Output written on latex-video.pdf (240 pages, 765512 bytes).
+PDF statistics:
+ 802 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+
